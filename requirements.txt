@@ -1,0 +1,5 @@
+langchain_huggingface
+transformers[sentencepiece]
+chromadb
+langchain_chroma
+langchain_openai
